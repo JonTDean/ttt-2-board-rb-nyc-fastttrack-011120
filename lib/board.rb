@@ -4,23 +4,23 @@
 row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 #position Left 
-topRow[0]
-middleRow[3]
-bottomRow[6]
+row[0]
+row[3]
+row[6]
 
 #position middle
-topRow[1]
-middleRow[4]
-bottomRow[7]
+row[1]
+row[4]
+row[7]
 
 #position right
-topRow[2]
-middleRow[5]
-bottomRow[8]
+row[2]
+row[5]
+row[8]
 
 #Move X to the position 2, middle
 
-middleRow[1] = "X"
+row[1] = "X"
 
 
 board = row
