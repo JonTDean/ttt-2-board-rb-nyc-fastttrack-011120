@@ -23,4 +23,4 @@ bottomRow[2]
 middleRow[1] = "X"
 
 
-board = row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = row
