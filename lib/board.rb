@@ -5,18 +5,18 @@ row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 #position Left 
 topRow[0]
-middleRow[0]
-bottomRow[0]
+middleRow[3]
+bottomRow[6]
 
 #position middle
 topRow[1]
-middleRow[1]
-bottomRow[1]
+middleRow[4]
+bottomRow[7]
 
 #position right
 topRow[2]
-middleRow[2]
-bottomRow[2]
+middleRow[5]
+bottomRow[8]
 
 #Move X to the position 2, middle
 
