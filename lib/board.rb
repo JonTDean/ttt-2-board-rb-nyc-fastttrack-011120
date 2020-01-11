@@ -18,9 +18,5 @@ row[2]
 row[5]
 row[8]
 
-#Move X to the position 2, middle
-
-row[1] = "X"
-
 
 board = row
