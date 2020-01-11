@@ -1,9 +1,7 @@
 # Define the variable board below.
 
 
-topRow = [" ", " ", " "]
-middleRow = [" ", " ", " "]
-bottomRow = [" ", " ", " "]
+row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 #position Left 
 topRow[0]
@@ -25,4 +23,4 @@ bottomRow[2]
 middleRow[1] = "X"
 
 
-board = [topRow, middleRow, bottomRow]
+board = row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
