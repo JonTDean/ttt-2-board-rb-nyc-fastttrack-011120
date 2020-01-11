@@ -25,4 +25,4 @@ bottomRow[2]
 middleRow[1] = "X"
 
 
-board = topRow, middleRow, bottomRow
+board = [topRow, middleRow, bottomRow]
