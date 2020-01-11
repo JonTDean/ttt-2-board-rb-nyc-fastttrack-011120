@@ -14,4 +14,5 @@ row [2]
 
 #Move X to the position 2, middle
 
-row[1] = "X"
+row1 = row
+row2 = row
